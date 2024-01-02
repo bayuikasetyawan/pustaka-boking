@@ -1,5 +1,5 @@
 # Pustaka_Booking_bay
-Pustaka Booking adalah contoh web booking buku pada perpustakaan
+CUMA CONTOHHH YAAAA
 
 Aplikasi ini **HANYA DIGUNAKAN UNTUK PEMBELAJARAN** dan **TIDAK DISARANKAN DIGUNAKAN** pada Web yang nyata.
 
